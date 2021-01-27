@@ -13,6 +13,5 @@ public class App
     	c.connect();
     	c.insertData(false);
     	c.selectData();
-    	
     }
 }
